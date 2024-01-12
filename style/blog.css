@@ -1,0 +1,23 @@
+.sagor{
+    /* background-color: aqua; */
+    height: 900px;
+   
+    /* background-image:url('IMG_4334-01.jpeg'); */
+    background-image: url(../sagor.JPG);
+    /* background-repeat: no-repeat; */
+      /* background-repeat: repeat-x; */
+        /* background-repeat: repeat-y; */
+    background-size: cover;
+}
+h3{
+    font-size: 30px;
+    color: blue;
+}
+.block{
+    margin: 40px;
+    border: 20px solid orange;
+    box-shadow: 10px 20px 10px purple;
+}
+.dolor{
+    border: 3px solid darkblue;
+}
